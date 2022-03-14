@@ -1,4 +1,4 @@
-快手极速版.js/*
+.js/*
 IOS/安卓： 快手极速版
 邀请链接(如果直接扫打不开，可以下载快手极速版后用APP的扫一扫)：
 https://raw.githubusercontent.com/leafxcy/JavaScript/main/ksjsb.jpg
